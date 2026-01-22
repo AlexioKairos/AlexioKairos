@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=100&fontColor=B00000&fontAlign=50&fontAlignY=50&stroke=B00000&strokeWidth=3&animation=fadeIn&descSize=100&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=100&fontColor=B00000&fontAlign=50&fontAlignY=50&stroke=B00000&strokeWidth=3&animation=fadeIn&descSize=100&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
