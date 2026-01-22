@@ -2,23 +2,33 @@
 
 ###
 
+<br clear="both">
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=100&fontColor=B00000&fontAlign=50&fontAlignY=50&stroke=B00000&strokeWidth=3&animation=fadeIn&descSize=100&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWV6cWl1a2FyZ3d1c3N5bXc3ZGRiYmo0dXFrMmh1MGkzZW4yMDl4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sLwIgGb0nVyGrIiW1j/giphy.gif"  />
+<br clear="both">
+
+<p align="justify">Actualmente soy estudiante en un curso superior de Desarrollo Web en Davante, donde estoy formando una base sólida para obtener mi certificación en España y en toda Europa. También utilizo FreeCodeCamp para profundizar mis conocimientos, especializarme en distintas áreas del desarrollo web y aprender nuevas habilidades que fortalecerán mi perfil profesional. Esta plataforma me ha ayudado a adquirir habilidades prácticas y a obtener certificaciones que reflejan mi progreso.</p>
 
 ###
 
-<p align="left">Actualmente soy estudiante en un curso superior de Desarrollo Web en Davante, donde estoy formando una base sólida para obtener mi certificación en España y en toda Europa. También utilizo FreeCodeCamp para profundizar mis conocimientos, especializarme en distintas áreas del desarrollo web y aprender nuevas habilidades que fortalecerán mi perfil profesional. Esta plataforma me ha ayudado a adquirir habilidades prácticas y a obtener certificaciones que reflejan mi progreso.</p>
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWV6cWl1a2FyZ3d1c3N5bXc3ZGRiYmo0dXFrMmh1MGkzZW4yMDl4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sLwIgGb0nVyGrIiW1j/giphy.gif"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <h2 align="left">Mis conocimientos:</h2>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -36,15 +46,11 @@
 
 ###
 
-<img align="left" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXRiMWpud2o1OWxpem5weGV1NWRlZmhyOXN5cTI0N2Q5ZDI2dTRxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6zGGyjGKq7GE/giphy.gif"  />
+<h2 align="right">En proceso:</h2>
 
 ###
 
-<h2 align="left">En proceso:</h2>
-
-###
-
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -61,6 +67,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <a href="https://open.spotify.com/user/31uquigwmytgx2kkvx2ftqzzi4v4">
@@ -84,11 +92,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexiokairos/alexiokairos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexiokairos/alexiokairos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alexiokairos/alexiokairos/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/alexiokairos/alexiokairos/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -97,6 +103,8 @@
 <h2 align="left">Mis Redes:</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -108,6 +116,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=alexiokairos.alexiokairos&left_color=black&right_color=purple"  />
